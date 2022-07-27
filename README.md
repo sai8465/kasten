@@ -117,5 +117,40 @@ The config profile will be created and a profile similar to the following will a
 
 ![image](https://user-images.githubusercontent.com/79599130/181243934-55669edc-3d79-4f64-91b9-076db5152599.png)
 
+## Creating  backup policies
+
+![image](https://user-images.githubusercontent.com/79599130/181247040-d62cc743-f07c-47d7-a354-e47ce6b746d8.png)
+
+select bucket 
+
+![image](https://user-images.githubusercontent.com/79599130/181247135-aca42495-dcd5-43a5-87cc-a1496efc8cc8.png)
+
+Enable Snapshot Cluster-Scoped Resources
+
+![image](https://user-images.githubusercontent.com/79599130/181247431-332828e8-3ff6-48b8-b7e4-589492be4246.png)
+
+click create pilocy
+
+![image](https://user-images.githubusercontent.com/79599130/181248562-a2e73791-b72e-4d9c-9da5-936457de507b.png)
 
 
+Here automatically genarate config like 
+
+![image](https://user-images.githubusercontent.com/79599130/181249330-223f6c35-3b4c-4040-9d6e-f2a76469e647.png)
+
+
+# Restoreing data on other cluster 
+
+Creating restore policy 
+
+![image](https://user-images.githubusercontent.com/79599130/181249596-e60bd083-77ae-49db-a64e-0cbc89cd7dbe.png)
+
+![image](https://user-images.githubusercontent.com/79599130/181249657-5be6a5aa-f879-413c-a471-604d1141230a.png)
+
+![image](https://user-images.githubusercontent.com/79599130/181249684-74cbce48-756b-4294-9a5f-618300b9c373.png)
+
+![image](https://user-images.githubusercontent.com/79599130/181249748-b9b353b3-e023-4f17-84d0-bb820bcde24d.png)
+
+![image](https://user-images.githubusercontent.com/79599130/181249814-8a0369f5-9454-4cb9-99a4-ded2622a3c42.png)
+
+![image](https://user-images.githubusercontent.com/79599130/181249861-87fa7a87-b67a-4b8d-9c17-814f5968cb82.png)
