@@ -52,10 +52,17 @@ kubectl --namespace kasten-io port-forward service/gateway 8080:8000
 ```
 The K10 dashboard will be available at http://127.0.0.1:8080/k10/#/
 
-https://github.com/sai8465/kasten/blob/main/Screenshot%20from%202022-07-27%2014-51-29.png?raw=true
+![image](https://user-images.githubusercontent.com/79599130/181217632-1d34f5dc-7a90-417a-9a22-80d08dcbd82a.png)
+
+### settings
+
+![image](https://user-images.githubusercontent.com/79599130/181217769-711b6159-d7a3-47a7-8aa3-701bb3830722.png)
+
+### Ctrating Location
+
+![image](https://user-images.githubusercontent.com/79599130/181217891-edb15db0-1ac4-43fb-94a5-3fc760e583c5.png)
 
 
-![image](https://user-images.githubusercontent.com/79599130/181216558-28561004-7cd1-4d52-8404-ae1b37852b96.png
 
-![image](https://user-images.githubusercontent.com/79599130/181216602-df4c1a15-94c7-4621-898c-dbafb6db44bd.png)
+
 
