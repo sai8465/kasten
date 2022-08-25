@@ -129,7 +129,7 @@ Enable Snapshot Cluster-Scoped Resources
 
 ![image](https://user-images.githubusercontent.com/79599130/181247431-332828e8-3ff6-48b8-b7e4-589492be4246.png)
 
-click create pilocy
+click create policy
 
 ![image](https://user-images.githubusercontent.com/79599130/181248562-a2e73791-b72e-4d9c-9da5-936457de507b.png)
 
@@ -139,7 +139,7 @@ Here automatically genarate config like
 ![image](https://user-images.githubusercontent.com/79599130/181249330-223f6c35-3b4c-4040-9d6e-f2a76469e647.png)
 
 
-# Restoreing data on other cluster 
+# Restoring data on other cluster 
 
 Creating restore policy 
 
